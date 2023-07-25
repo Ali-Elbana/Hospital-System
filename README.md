@@ -1,3 +1,5 @@
 # Hospital-System
 This project is my first one in C++, it's implemented without using: struct, STL, pointers and OOP. 
-[01 Project #1.pdf](https://github.com/Ali-Elbana/Hospital-System/files/12160192/01.Project.1.pdf)
+
+![image](https://github.com/Ali-Elbana/Hospital-System/assets/97269796/2a4e0056-9b55-49df-aa1c-1b3e1296946b)
+
